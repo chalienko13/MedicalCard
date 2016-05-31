@@ -1,0 +1,11 @@
+body {
+    background: url(../images/bg.png) repeat;
+    margin: 0;
+}
+
+table{
+    margin: 3%;
+}
+table tr{
+    width: 1%;
+}

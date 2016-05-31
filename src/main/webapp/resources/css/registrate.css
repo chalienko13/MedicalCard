@@ -1,0 +1,11 @@
+body {
+    background: url(../images/bg.png) repeat;
+    margin: 0;
+}
+
+button {
+    margin-left: 47%;
+}
+.btn{
+    margin-left: 90%;
+}
